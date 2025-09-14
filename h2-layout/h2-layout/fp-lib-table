@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "instruo-FACEPLATE")(type "KiCad")(uri "/Users/jasonlim/Desktop/DEV/harmonaig2/lib-kicad-instruo/lib-FOOTPRINT/instruo-FACEPLATE.pretty")(options "")(descr ""))
+  (lib (name "instruo-IC")(type "KiCad")(uri "/Users/jasonlim/Desktop/DEV/harmonaig2/lib-kicad-instruo/lib-FOOTPRINT/instruo-IC.pretty")(options "")(descr ""))
+  (lib (name "instruo-MECHANICAL")(type "KiCad")(uri "/Users/jasonlim/Desktop/DEV/harmonaig2/lib-kicad-instruo/lib-FOOTPRINT/instruo-MECHANICAL.pretty")(options "")(descr ""))
+  (lib (name "instruo-PASSIVE")(type "KiCad")(uri "/Users/jasonlim/Desktop/DEV/harmonaig2/lib-kicad-instruo/lib-FOOTPRINT/instruo-PASSIVE.pretty")(options "")(descr ""))
+  (lib (name "instruo-SEMICONDUCTORS")(type "KiCad")(uri "/Users/jasonlim/Desktop/DEV/harmonaig2/lib-kicad-instruo/lib-FOOTPRINT/instruo-SEMICONDUCTORS.pretty")(options "")(descr ""))
+  (lib (name "instruo-USER-JASON")(type "KiCad")(uri "/Users/jasonlim/Desktop/DEV/harmonaig2/lib-kicad-instruo/lib-FOOTPRINT/instruo-USER-JASON.pretty")(options "")(descr ""))
+  (lib (name "instruo-USER-NOE")(type "KiCad")(uri "/Users/jasonlim/Desktop/DEV/harmonaig2/lib-kicad-instruo/lib-FOOTPRINT/instruo-USER-NOE.pretty")(options "")(descr ""))
+)

@@ -38,3 +38,11 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# Library folder (nested repo)
+lib-kicad-instruo/
+ARCHIVE_local/
+ref/
+Mixology/
+
+.DS_Store

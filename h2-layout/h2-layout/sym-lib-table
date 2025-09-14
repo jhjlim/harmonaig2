@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "instruo-IC-ANALOGUE")(type "KiCad")(uri "/Users/jasonlim/Desktop/DEV/harmonaig2/lib-kicad-instruo/lib-SYMBOL/instruo-IC-ANALOGUE.kicad_sym")(options "")(descr ""))
+  (lib (name "instruo-IC-DIGITAL")(type "KiCad")(uri "/Users/jasonlim/Desktop/DEV/harmonaig2/lib-kicad-instruo/lib-SYMBOL/instruo-IC-DIGITAL.kicad_sym")(options "")(descr ""))
+  (lib (name "instruo-MECHANICAL")(type "KiCad")(uri "/Users/jasonlim/Desktop/DEV/harmonaig2/lib-kicad-instruo/lib-SYMBOL/instruo-MECHANICAL.kicad_sym")(options "")(descr ""))
+  (lib (name "instruo-PASSIVE")(type "KiCad")(uri "/Users/jasonlim/Desktop/DEV/harmonaig2/lib-kicad-instruo/lib-SYMBOL/instruo-PASSIVE.kicad_sym")(options "")(descr ""))
+  (lib (name "instruo-SEMICONDUCTORS")(type "KiCad")(uri "/Users/jasonlim/Desktop/DEV/harmonaig2/lib-kicad-instruo/lib-SYMBOL/instruo-SEMICONDUCTORS.kicad_sym")(options "")(descr ""))
+  (lib (name "instruo-USER-JASON")(type "KiCad")(uri "/Users/jasonlim/Desktop/DEV/harmonaig2/lib-kicad-instruo/lib-SYMBOL/instruo-USER-JASON.kicad_sym")(options "")(descr ""))
+  (lib (name "instruo-USER-NOE")(type "KiCad")(uri "/Users/jasonlim/Desktop/DEV/harmonaig2/lib-kicad-instruo/lib-SYMBOL/instruo-USER-NOE.kicad_sym")(options "")(descr ""))
+)
